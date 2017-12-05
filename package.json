@@ -1,0 +1,22 @@
+{
+  "name": "(hangman-cli)",
+  "version": "1.0.0",
+  "description": "for homework hangman-cli",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonathan-Boesel/Hangman-CLI.git"
+  },
+  "author": "Jon Boesel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonathan-Boesel/Hangman-CLI/issues"
+  },
+  "homepage": "https://github.com/Jonathan-Boesel/Hangman-CLI#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1"
+  }
+}
